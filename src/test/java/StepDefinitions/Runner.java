@@ -11,6 +11,6 @@ glue= {"StepDefinitions"},
 plugin = {"pretty","html:target/HTML_report"}
 		
 		)
-public class TestRunner {
+public class Runner {
 
 }
